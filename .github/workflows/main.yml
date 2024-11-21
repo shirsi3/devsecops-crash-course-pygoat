@@ -52,7 +52,7 @@ jobs:
              docker scout quickview
              docker scout cves
 
-
+          
 
 
 
